@@ -3,6 +3,7 @@
 mazes.zip contains the mazes images and their .txt versions.
 
 main.py reads problem.txt:
+
 By lines:
 0. Size of the maze N - integer
 1. Start state xy - two integers: 0 ≤ x, y < N
