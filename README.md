@@ -2,9 +2,11 @@
 
 mazes.zip contains the mazes images and their .txt versions.
 
-main.py reads problem.txt:
+mazes are 100x100
 
-By lines:
+main.py get the necessary information from problem.txt, then finds the path (if possible) and displays it using matplotlib:
+
+problem.txt format by lines:
 
 0. Size of the maze N - integer
 1. Start state xy - two integers: 0 ≤ x, y < N
